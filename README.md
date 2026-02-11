@@ -29,3 +29,7 @@
 - Data visualization & reporting 🧠
 - Adobe Photoshop 🖼️
 - Adobe Illustrator 🎨
+
+### Location
+Based in Massachusetts, USA 📍  
+Open to relocation and remote opportunities 🌍
