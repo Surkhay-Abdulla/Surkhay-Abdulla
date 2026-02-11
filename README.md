@@ -1,27 +1,21 @@
-I’m Surkhay 👋
+<h1 align="center">Hi 👋, I'm Surkhay Abdullazade</h1>
+<h3 align="center">I’m a Business Intelligence Analyst with project-based and freelance experience. I enjoy working with data, building dashboards, and turning complex datasets into clear, actionable insights for better decision-making 📊</h3>
 
-### About me
-I’m a Business Intelligence Analyst with project-based and freelance experience. I enjoy working with data, building dashboards, and turning complex datasets into clear, actionable insights for better decision-making 📊
+- 🌱 I’m currently learning **Python**
 
-### Fun facts
-- I enjoy creating dashboards to explore trends and business patterns 📈
-- I’m always learning new tools and techniques in analytics and BI 🚀
+- 📝 I regularly write articles on [absoordism.com](absoordism.com)
 
-### Open to outsourcing projects
-I’m available for freelance and outsourcing projects, including data analysis, reporting, and dashboard development 🤝
+- 💬 Ask me about **SQL, Tableau, PowerBI, Excel**
 
-### Tech skills
-- SQL 💻
-- Power BI📊
-- Tableau📈
-- Excel🧑‍💻
-- Data visualization & reporting 🧠
+- 📫 How to reach me **surkhay.abd@gmail.com**
 
-### Links
-- Portfolio:  🔗
-- Resume: [https://docs.google.com/document/d/1_HLrHW4aC6GzgbADBypAHqvPazkxpwJiPsb_gOmxNd4/edit?usp=drive_link] 📄
-- LinkedIn: [https://www.linkedin.com/in/surkhay-abd/] 💼
+- 📄 Know about my experiences [https://rb.gy/gn95et](https://rb.gy/gn95et)
 
-### Location
-Based in Massachusetts, USA 📍  
-Open to relocation and remote opportunities 🌍
+- ⚡ Fun fact **I love hiking in nature and building detailed miniature car models in my free time.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
