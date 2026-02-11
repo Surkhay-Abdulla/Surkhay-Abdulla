@@ -1,7 +1,7 @@
 I’m Surkhay 👋
 
 ### About me
-I’m a junior Business Intelligence Analyst with project-based and freelance experience. I enjoy working with data, building dashboards, and turning complex datasets into clear, actionable insights for better decision-making 📊
+I’m a Business Intelligence Analyst with project-based and freelance experience. I enjoy working with data, building dashboards, and turning complex datasets into clear, actionable insights for better decision-making 📊
 
 ### Fun facts
 - I enjoy creating dashboards to explore trends and business patterns 📈
