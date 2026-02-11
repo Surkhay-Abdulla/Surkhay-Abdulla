@@ -21,7 +21,7 @@
 <a href="https://www.behance.net/surxayabdulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="surxayabdulla" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Hard skills and Tools:</h3>
 - SQL 💻
 - Power BI📊
 - Tableau📈
@@ -29,6 +29,16 @@
 - Data visualization & reporting 🧠
 - Adobe Photoshop 🖼️
 - Adobe Illustrator 🎨
+
+<h3 align="left">Languages:</h3>
+- Azerbaijani (native) ![AzerbaijanVslimrnGIF](https://github.com/user-attachments/assets/319d0d9d-b510-4f6f-a543-4a5d451c0579)
+- English (fluent) ![AmericaFlagAmericaGIF](https://github.com/user-attachments/assets/fd34c9fb-74a9-46ac-bcec-b5288f28316f)
+- Turkish (fluent) ![FlagTurkeyGIF](https://github.com/user-attachments/assets/ed8c6a59-bfbc-411e-9fd4-20ee72633cca)
+- Russian (beginner) ![RussiaFlagGifGIF](https://github.com/user-attachments/assets/bcdcb4a6-ed64-4b53-bb12-5f4b24f81e9d)
+
+
+
+
 
 ### Location
 Based in Massachusetts, USA 📍  
